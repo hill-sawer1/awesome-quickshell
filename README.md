@@ -1,2 +1,5 @@
 # awesome-quickshell
-PR's are welcome!
+A collection of great quickshell rices. Thanks for the idea Flatbread1!
+
+|    |    |    |
+|:-------:|:-------:|:---------:|
