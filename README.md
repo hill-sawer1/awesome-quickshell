@@ -3,5 +3,5 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1! Layout 
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
-|<img src="/assets/caelestia.jpg" width=247>|    |    |
-|**[caelestia-shell](https://github.com/caelestia-dots/shell)**|    |    |
+|<img src="/assets/caelestia.jpg" width=247>|<img src="/assets/illogical-impulse.png" width=247>|    |
+|**[caelestia-shell](https://github.com/caelestia-dots/shell)**|**[illogical-impulse](https://github.com/end-4/dots-hyprland)**|    |
