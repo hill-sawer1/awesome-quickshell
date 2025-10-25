@@ -1,5 +1,5 @@
 # awesome-quickshell
-A collection of great quickshell shells! Thanks for the idea Flatbread1! Layout heavily inspired (basically copied) from [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB/).
+A collection of great quickshell shells! Thanks for the idea Flatbread1! Layout heavily inspired (copied) from [Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB/).
 
 |    |    |    |
 |:-------:|:-------:|:---------:|
