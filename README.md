@@ -8,4 +8,4 @@ A collection of great quickshell shells! Thanks for the idea Flatbread1! Layout 
 |<img src="/assets/illogical-impulse.png" width=247>|<img src="/assets/noctalia-shell.jpg" width=247>|<img src="/assets/sleex.jpg" width=247>|
 |**[illogical-impulse](https://github.com/end-4/dots-hyprland)**|**[noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)**|**[Sleex](https://www.axos-project.com/docs/guides/sleex/)**|
 |<img src="/assets/Zaphkiel.jpg" width=247>| | |
-|**[noctalia-shell](https://github.com/noctalia-dev/noctalia-shell)**|**[Zaphkiel](https://github.com/Rexcrazy804/Zaphkiel)**| | |
+|**[Zaphkiel](https://github.com/Rexcrazy804/Zaphkiel)**| | |
