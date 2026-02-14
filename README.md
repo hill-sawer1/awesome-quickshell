@@ -1,6 +1,8 @@
 # awesome-quickshell
 A collection of great quickshell shells! Thanks for the idea Flatbread1!
 
+**This repo is unmaintained; you might want https://github.com/eq-desktop/awesome-quickshell instead**
+
 ## [Ambxst](https://github.com/Axenide/Ambxst)
 <img src="/assets/Ambxst.png" width="500">
 
